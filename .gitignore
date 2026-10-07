@@ -1,0 +1,11 @@
+*.gz
+*.rds
+*series_matrix*
+*HiSeqV2*
+*clinicalMatrix*
+.Rhistory
+.RData
+.Rproj.user
+__pycache__/
+*.pyc
+.DS_Store
